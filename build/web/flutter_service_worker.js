@@ -33,8 +33,8 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"index.html": "ad46ce0b28494e62b6e799ed57677a19",
-"/": "ad46ce0b28494e62b6e799ed57677a19",
+"index.html": "c9e45061ff3f778abff09122512bc0c8",
+"/": "c9e45061ff3f778abff09122512bc0c8",
 "loader.css": "3481833d4078d75da0ca1cba0ad7916e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
