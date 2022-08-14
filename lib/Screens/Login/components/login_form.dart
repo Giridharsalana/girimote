@@ -4,6 +4,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import '../../../components/already_have_an_account_acheck.dart';
 import '../../../constants.dart';
+import '../../Homepage/homepage.dart';
 import '../../Signup/signup_screen.dart';
 
 class LoginForm extends StatelessWidget {
@@ -61,6 +62,8 @@ class LoginForm extends StatelessWidget {
                 )
                     .then((user) {
                   print("logged in ${user.user?.uid}");
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => Homepage()));
                 }).catchError((e) {
                   print(e);
                 });
