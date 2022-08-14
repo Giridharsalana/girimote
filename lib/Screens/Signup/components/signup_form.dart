@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 import '../../../components/already_have_an_account_acheck.dart';
 import '../../../constants.dart';
@@ -13,6 +14,17 @@ class SignUpForm extends StatelessWidget {
   final nameController = TextEditingController();
   final emailController = TextEditingController();
   final passwordController = TextEditingController();
+
+  final db = FirebaseFirestore.instance;
+
+  Future<void> storeUser(String uid, String username, String email) async {
+    //Creates the user doc named whatever the user uid is in te collection "users"
+    //and adds the user data
+    await db
+        .collection("users")
+        .doc(uid)
+        .set({'Name': username, 'Email': email});
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -72,14 +84,19 @@ class SignUpForm extends StatelessWidget {
                 email: emailController.text,
                 password: passwordController.text,
               )
-                  .then((value) {
+                  .then((user) {
+                storeUser(
+                    user.user!.uid, nameController.text, emailController.text);
+                print("ght");
                 Navigator.push(
                   context,
                   MaterialPageRoute(
                     builder: (context) => LoginScreen(),
                   ),
                 );
-              }).onError((error, stackTrace) {});
+              }).onError((error, stackTrace) {
+                print("error ${error.toString()}");
+              });
             },
             child: Text("Sign Up".toUpperCase()),
           ),

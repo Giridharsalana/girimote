@@ -6,6 +6,7 @@ import '../../../components/already_have_an_account_acheck.dart';
 import '../../../constants.dart';
 import '../../Homepage/homepage.dart';
 import '../../Signup/signup_screen.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 
 class LoginForm extends StatelessWidget {
   LoginForm({
@@ -14,6 +15,24 @@ class LoginForm extends StatelessWidget {
 
   final emailController = TextEditingController();
   final passwordController = TextEditingController();
+
+  Future<UserCredential> signInWithGoogle() async {
+    // Trigger the authentication flow
+    final GoogleSignInAccount? googleUser = await GoogleSignIn().signIn();
+
+    // Obtain the auth details from the request
+    final GoogleSignInAuthentication? googleAuth =
+        await googleUser?.authentication;
+
+    // Create a new credential
+    final credential = GoogleAuthProvider.credential(
+      accessToken: googleAuth?.accessToken,
+      idToken: googleAuth?.idToken,
+    );
+
+    // Once signed in, return the UserCredential
+    return await FirebaseAuth.instance.signInWithCredential(credential);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -61,12 +80,9 @@ class LoginForm extends StatelessWidget {
                   password: passwordController.text,
                 )
                     .then((user) {
-                  print("logged in ${user.user?.uid}");
                   Navigator.push(context,
                       MaterialPageRoute(builder: (context) => Homepage()));
-                }).catchError((e) {
-                  print(e);
-                });
+                }).catchError((e) {});
               },
               child: Text(
                 "Login".toUpperCase(),
@@ -75,19 +91,23 @@ class LoginForm extends StatelessWidget {
           ),
           const SizedBox(height: defaultPadding),
           const Text("-- or --"),
-          const Text("Sign in with Socials"),
+          const Text("Sign in with Google"),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               IconButton(
                 icon: const Icon(FontAwesomeIcons.google),
-                onPressed: () {},
+                onPressed: () async {
+                  await signInWithGoogle();
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => Homepage()));
+                },
               ),
               const SizedBox(width: defaultPadding),
-              IconButton(
-                icon: const Icon(FontAwesomeIcons.facebook),
-                onPressed: () {},
-              ),
+              // IconButton(
+              //   icon: const Icon(FontAwesomeIcons.facebook),
+              //   onPressed: () {},
+              // ),
             ],
           ),
           const SizedBox(height: defaultPadding),
