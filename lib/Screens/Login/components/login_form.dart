@@ -103,7 +103,7 @@ class LoginForm extends StatelessWidget {
                       MaterialPageRoute(builder: (context) => Homepage()));
                 },
               ),
-              const SizedBox(width: defaultPadding),
+              // const SizedBox(width: defaultPadding),
               // IconButton(
               //   icon: const Icon(FontAwesomeIcons.facebook),
               //   onPressed: () {},
