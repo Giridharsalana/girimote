@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299511919695",
+    "project_id": "girimote-b5fa2",
+    "storage_bucket": "girimote-b5fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299511919695:android:d354003eaf7141bb4b663a",
+        "android_client_info": {
+          "package_name": "com.example.girimote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299511919695-560kf29oudmlo2d5ceun7isjtitqf420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05cmp9qy1F3rlow6ogQJguVS7cTkfmCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299511919695-560kf29oudmlo2d5ceun7isjtitqf420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
