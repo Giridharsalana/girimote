@@ -15,6 +15,20 @@ class SignUpForm extends StatelessWidget {
       child: Column(
         children: [
           TextFormField(
+            keyboardType: TextInputType.name,
+            textInputAction: TextInputAction.next,
+            cursorColor: kPrimaryColor,
+            onSaved: (name) {},
+            decoration: const InputDecoration(
+              hintText: "Your name",
+              prefixIcon: Padding(
+                padding: EdgeInsets.all(defaultPadding),
+                child: Icon(Icons.person),
+              ),
+            ),
+          ),
+          const SizedBox(height: defaultPadding),
+          TextFormField(
             keyboardType: TextInputType.emailAddress,
             textInputAction: TextInputAction.next,
             cursorColor: kPrimaryColor,
@@ -23,7 +37,7 @@ class SignUpForm extends StatelessWidget {
               hintText: "Your email",
               prefixIcon: Padding(
                 padding: EdgeInsets.all(defaultPadding),
-                child: Icon(Icons.person),
+                child: Icon(Icons.email),
               ),
             ),
           ),
