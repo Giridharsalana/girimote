@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import '../../../components/already_have_an_account_acheck.dart';
 import '../../../constants.dart';
@@ -51,6 +52,23 @@ class LoginForm extends StatelessWidget {
                 "Login".toUpperCase(),
               ),
             ),
+          ),
+          const SizedBox(height: defaultPadding),
+          const Text("-- or --"),
+          const Text("Sign in with Socials"),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              IconButton(
+                icon: const Icon(FontAwesomeIcons.google),
+                onPressed: () {},
+              ),
+              const SizedBox(width: defaultPadding),
+              IconButton(
+                icon: const Icon(FontAwesomeIcons.facebook),
+                onPressed: () {},
+              ),
+            ],
           ),
           const SizedBox(height: defaultPadding),
           AlreadyHaveAnAccountCheck(
