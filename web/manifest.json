@@ -1,6 +1,6 @@
 {
-    "name": "gemote",
-    "short_name": "gemote",
+    "name": "girimote",
+    "short_name": "girimote",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

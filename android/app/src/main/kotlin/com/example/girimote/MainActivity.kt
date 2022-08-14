@@ -1,4 +1,4 @@
-package com.example.gemote
+package com.example.girimote
 
 import io.flutter.embedding.android.FlutterActivity
 
