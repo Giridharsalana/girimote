@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/values-uz/values-uz.xml",
@@ -38,23 +38,6 @@
                     }
                 },
                 {
-                    "source": "/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/res/values-uz/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "145",
-                        "endOffsets": "340"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3773",
-                        "endColumns": "149",
-                        "endOffsets": "3918"
-                    }
-                },
-                {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-uz/values-uz.xml",
                     "from": {
                         "startLines": "2",
@@ -86,6 +69,23 @@
                         "startOffsets": "5017,5135,5244,5354",
                         "endColumns": "117,108,109,105",
                         "endOffsets": "5130,5239,5349,5455"
+                    }
+                },
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "145",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3773",
+                        "endColumns": "149",
+                        "endOffsets": "3918"
                     }
                 }
             ]

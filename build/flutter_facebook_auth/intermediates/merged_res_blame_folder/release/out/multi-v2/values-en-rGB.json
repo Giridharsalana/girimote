@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/values-en-rGB/values-en-rGB.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/values-en-rGB/values-en-rGB.xml",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

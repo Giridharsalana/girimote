@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_res/release/values-gl/values-gl.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_res/release/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-gl/values-gl.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-gl/values-gl.xml",

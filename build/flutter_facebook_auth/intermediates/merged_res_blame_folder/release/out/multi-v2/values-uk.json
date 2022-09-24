@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-uk/values-uk.xml",
             "map": [
-                {
-                    "source": "/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/res/values-uk/values-uk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,235,315,407,496,609,729,818,907,1007,1092,1177,1277",
-                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
-                        "endOffsets": "138,230,310,402,491,604,724,813,902,1002,1087,1172,1272,1386"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2829,2917,3009,3089,3181,3270,3383,3503,3592,3681,3781,3866,3951,4051",
-                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
-                        "endOffsets": "2912,3004,3084,3176,3265,3378,3498,3587,3676,3776,3861,3946,4046,4160"
-                    }
-                },
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-uk/values-uk.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "4246",
                         "endColumns": "100",
                         "endOffsets": "4342"
+                    }
+                },
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,235,315,407,496,609,729,818,907,1007,1092,1177,1277",
+                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
+                        "endOffsets": "138,230,310,402,491,604,724,813,902,1002,1087,1172,1272,1386"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2829,2917,3009,3089,3181,3270,3383,3503,3592,3681,3781,3866,3951,4051",
+                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
+                        "endOffsets": "2912,3004,3084,3176,3265,3378,3498,3587,3676,3776,3861,3946,4046,4160"
                     }
                 },
                 {
@@ -57,25 +57,8 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-uk/values-uk.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml",
             "map": [
-                {
-                    "source": "/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/res/values-uk/values-uk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,235,315,407,496,609,729,818,907,1007,1092,1177,1277",
-                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
-                        "endOffsets": "138,230,310,402,491,604,724,813,902,1002,1087,1172,1272,1386"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2829,2917,3009,3089,3181,3270,3383,3503,3592,3681,3781,3866,3951,4051",
-                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
-                        "endOffsets": "2912,3004,3084,3176,3265,3378,3498,3587,3676,3776,3861,3946,4046,4160"
-                    }
-                },
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-uk/values-uk.xml",
                     "from": {
@@ -91,6 +74,23 @@
                         "startOffsets": "4246",
                         "endColumns": "100",
                         "endOffsets": "4342"
+                    }
+                },
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,235,315,407,496,609,729,818,907,1007,1092,1177,1277",
+                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
+                        "endOffsets": "138,230,310,402,491,604,724,813,902,1002,1087,1172,1272,1386"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2829,2917,3009,3089,3181,3270,3383,3503,3592,3681,3781,3866,3951,4051",
+                        "endColumns": "87,91,79,91,88,112,119,88,88,99,84,84,99,113",
+                        "endOffsets": "2912,3004,3084,3176,3265,3378,3498,3587,3676,3776,3861,3946,4046,4160"
                     }
                 },
                 {

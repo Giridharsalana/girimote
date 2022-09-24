@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/switch_thumb_material_light.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_material_light.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_secondary_text_material_light.xml",
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_secondary_text_material_light.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_hint_foreground_material_light.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_hint_foreground_material_dark.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/com_facebook_button_text_color.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/811dadca657695454917f124ad2815b0/transformed/jetified-facebook-common-14.1.0/res/color/com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_spinner.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_material_dark.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/switch_thumb_material_dark.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_search_url_text.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_search_url_text.xml"
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_btn_colored_text_material.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_btn_checkable.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_edittext.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_switch_track.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_default.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_seek_thumb.xml",
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_seek_thumb.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_secondary_text_material_dark.xml",
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_default.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/switch_thumb_material_dark.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_search_url_text.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_switch_track.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_edittext.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_secondary_text_material_dark.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_material_dark.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/com_facebook_button_text_color.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_spinner.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_tint_btn_checkable.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/switch_thumb_material_light.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_material_light.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_btn_colored_text_material.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_btn_colored_text_material.xml"
     }
 ]

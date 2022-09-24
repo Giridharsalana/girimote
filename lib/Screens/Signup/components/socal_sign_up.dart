@@ -1,5 +1,4 @@
 // import 'package:flutter/material.dart';
-
 // import '../../../screens/Signup/components/or_divider.dart';
 // import '../../../screens/Signup/components/social_icon.dart';
 

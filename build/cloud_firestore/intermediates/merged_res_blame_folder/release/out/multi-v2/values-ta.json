@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_res/release/values-ta/values-ta.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml",
             "map": [
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "156",
+                        "endOffsets": "351"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1039",
+                        "endColumns": "160",
+                        "endOffsets": "1195"
+                    }
+                },
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-ta/values-ta.xml",
                     "from": {
@@ -18,23 +35,6 @@
                         "startOffsets": "2291",
                         "endColumns": "100",
                         "endOffsets": "2387"
-                    }
-                },
-                {
-                    "source": "/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/res/values-ta/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "156",
-                        "endOffsets": "351"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1039",
-                        "endColumns": "160",
-                        "endOffsets": "1195"
                     }
                 },
                 {
@@ -57,8 +57,25 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_res/release/values-ta/values-ta.xml",
             "map": [
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "156",
+                        "endOffsets": "351"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1039",
+                        "endColumns": "160",
+                        "endOffsets": "1195"
+                    }
+                },
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/values-ta/values-ta.xml",
                     "from": {
@@ -74,23 +91,6 @@
                         "startOffsets": "2291",
                         "endColumns": "100",
                         "endOffsets": "2387"
-                    }
-                },
-                {
-                    "source": "/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/res/values-ta/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "156",
-                        "endOffsets": "351"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1039",
-                        "endColumns": "160",
-                        "endOffsets": "1195"
                     }
                 },
                 {

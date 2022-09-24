@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/workspace/Flutter_Container/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
-                {
-                    "source": "/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/res/values-en-rGB/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "133",
-                        "endOffsets": "332"
-                    },
-                    "to": {
-                        "startLines": "41",
-                        "startColumns": "4",
-                        "startOffsets": "4247",
-                        "endColumns": "137",
-                        "endOffsets": "4380"
-                    }
-                },
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/297942c3957902ff7659eb1bc47c3617/transformed/browser-1.4.0/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "133",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4247",
+                        "endColumns": "137",
+                        "endOffsets": "4380"
+                    }
+                },
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

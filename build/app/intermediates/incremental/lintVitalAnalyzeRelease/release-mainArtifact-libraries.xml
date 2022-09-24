@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/workspaces/Cloud_Workspace/girimote/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/workspaces/Cloud_Workspace/girimote/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/workspaces/Cloud_Workspace/girimote/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/workspace/Flutter_Container/girimote/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/workspace/Flutter_Container/girimote/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/workspace/Flutter_Container/girimote/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/workspaces/Cloud_Workspace/girimote/android@@:firebase_auth::release"
-      jars="/workspaces/Cloud_Workspace/girimote/build/firebase_auth/.transforms/64ed4b58c3fc8b02e9fc65ca9d188f35/transformed/out/jars/classes.jar"
+      name="/workspace/Flutter_Container/girimote/android@@:firebase_auth::release"
+      jars="/workspace/Flutter_Container/girimote/build/firebase_auth/.transforms/37f82230743206e2aa2e803f251c764b/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.firebase.auth:firebase_auth:unspecified"
-      folder="/workspaces/Cloud_Workspace/girimote/build/firebase_auth/.transforms/64ed4b58c3fc8b02e9fc65ca9d188f35/transformed/out"
+      folder="/workspace/Flutter_Container/girimote/build/firebase_auth/.transforms/37f82230743206e2aa2e803f251c764b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/workspaces/Cloud_Workspace/girimote/android@@:cloud_firestore::release"
-      jars="/workspaces/Cloud_Workspace/girimote/build/cloud_firestore/.transforms/8e9ea944eb1412e5de685a1b682045c5/transformed/out/jars/classes.jar"
+      name="/workspace/Flutter_Container/girimote/android@@:cloud_firestore::release"
+      jars="/workspace/Flutter_Container/girimote/build/cloud_firestore/.transforms/ffb6f33188da79be14e852f80f68a98a/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.firebase.cloudfirestore:cloud_firestore:unspecified"
-      folder="/workspaces/Cloud_Workspace/girimote/build/cloud_firestore/.transforms/8e9ea944eb1412e5de685a1b682045c5/transformed/out"
+      folder="/workspace/Flutter_Container/girimote/build/cloud_firestore/.transforms/ffb6f33188da79be14e852f80f68a98a/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/workspaces/Cloud_Workspace/girimote/android@@:firebase_core::release"
-      jars="/workspaces/Cloud_Workspace/girimote/build/firebase_core/.transforms/8985e6e940419dca38deae4dbda96cf7/transformed/out/jars/classes.jar"
+      name="/workspace/Flutter_Container/girimote/android@@:firebase_core::release"
+      jars="/workspace/Flutter_Container/girimote/build/firebase_core/.transforms/47c3b16e06fdd2ee41d2f24562b0da27/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
-      folder="/workspaces/Cloud_Workspace/girimote/build/firebase_core/.transforms/8985e6e940419dca38deae4dbda96cf7/transformed/out"
+      folder="/workspace/Flutter_Container/girimote/build/firebase_core/.transforms/47c3b16e06fdd2ee41d2f24562b0da27/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/workspaces/Cloud_Workspace/girimote/android@@:google_sign_in_android::release"
-      jars="/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/.transforms/4bdc4e0e95954bea3943ed71e4bc57ce/transformed/out/jars/classes.jar"
+      name="/workspace/Flutter_Container/girimote/android@@:google_sign_in_android::release"
+      jars="/workspace/Flutter_Container/girimote/build/google_sign_in_android/.transforms/71b2c70cb7cdb3d171a52fa177ff1e53/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.googlesignin:google_sign_in_android:unspecified"
-      folder="/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/.transforms/4bdc4e0e95954bea3943ed71e4bc57ce/transformed/out"
+      folder="/workspace/Flutter_Container/girimote/build/google_sign_in_android/.transforms/71b2c70cb7cdb3d171a52fa177ff1e53/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -56,10 +56,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/workspaces/Cloud_Workspace/girimote/android@@:flutter_facebook_auth::release"
-      jars="/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/.transforms/e8410e7b13457a732e817c18df571c57/transformed/out/jars/classes.jar"
+      name="/workspace/Flutter_Container/girimote/android@@:flutter_facebook_auth::release"
+      jars="/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/.transforms/7ea2c58f6a044f347aa19f0a628279ea/transformed/out/jars/classes.jar"
       resolved="app.meedu.flutter_facebook_auth:flutter_facebook_auth:unspecified"
-      folder="/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/.transforms/e8410e7b13457a732e817c18df571c57/transformed/out"
+      folder="/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/.transforms/7ea2c58f6a044f347aa19f0a628279ea/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -82,9 +82,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187/b1ef772a67fd82e70fd46706bfaa99a9976a86f0/flutter_embedding_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:flutter_embedding_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3/769c0e5a37ed904e207570b3598bac2b78108f8a/flutter_embedding_release-1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3"/>
   <library
       name="androidx.window:window-java:1.0.0-beta04@aar"
       jars="/workspace/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/jars/classes.jar"
@@ -124,17 +124,17 @@
       jars="/workspace/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.10/e80fe6ac3c3573a80305f5ec43f86b829e8ab53d/kotlin-stdlib-jdk8-1.6.10.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187/39a18ec879f90bf3c23f37db9a1548040b4284cc/armeabi_v7a_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3/f5ee132298b6083761dc44a256fd311160aa438d/armeabi_v7a_release-1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187/a6567a3dea5b70a6034e5d01e12adeccbf307441/arm64_v8a_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3/f9ff6fb53b19e4012653ed821ed351b5e6566b96/arm64_v8a_release-1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187/3f8298dbbd697153f25d0ccc78d3948f630cec2e/x86_64_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:x86_64_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3/a4d08761c962d313223af740b8ba48d5e6596e99/x86_64_release-1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-a4ff2c53d84ca78702bc3be6c7ef0788ffca01d3"/>
   <library
       name="androidx.fragment:fragment:1.3.0@aar"
       jars="/workspace/.gradle/caches/transforms-3/05db99a34555bf316774640893f6f9c1/transformed/fragment-1.3.0/jars/classes.jar"
@@ -380,10 +380,10 @@
       jars="/workspace/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10"/>
   <library
-      name="com.google.firebase:firebase-auth:21.0.6@aar"
-      jars="/workspace/.gradle/caches/transforms-3/311ba45f86ccb0360024e645e9d990d4/transformed/jetified-firebase-auth-21.0.6/jars/classes.jar"
-      resolved="com.google.firebase:firebase-auth:21.0.6"
-      folder="/workspace/.gradle/caches/transforms-3/311ba45f86ccb0360024e645e9d990d4/transformed/jetified-firebase-auth-21.0.6"
+      name="com.google.firebase:firebase-auth:21.0.8@aar"
+      jars="/workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/jars/classes.jar"
+      resolved="com.google.firebase:firebase-auth:21.0.8"
+      folder="/workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -393,10 +393,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.firebase:firebase-firestore:24.2.1@aar"
-      jars="/workspace/.gradle/caches/transforms-3/9bea9d27c261792cee39aa834f2d67e0/transformed/jetified-firebase-firestore-24.2.1/jars/classes.jar"
-      resolved="com.google.firebase:firebase-firestore:24.2.1"
-      folder="/workspace/.gradle/caches/transforms-3/9bea9d27c261792cee39aa834f2d67e0/transformed/jetified-firebase-firestore-24.2.1"
+      name="com.google.firebase:firebase-firestore:24.3.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/0460d21a0a68e7ae820ca93ff5d4bf6d/transformed/jetified-firebase-firestore-24.3.1/jars/classes.jar"
+      resolved="com.google.firebase:firebase-firestore:24.3.1"
+      folder="/workspace/.gradle/caches/transforms-3/0460d21a0a68e7ae820ca93ff5d4bf6d/transformed/jetified-firebase-firestore-24.3.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -419,10 +419,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.firebase:firebase-appcheck-interop:16.0.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/7955678c62e43da44b5ef6419b4135c4/transformed/jetified-firebase-appcheck-interop-16.0.0/jars/classes.jar"
-      resolved="com.google.firebase:firebase-appcheck-interop:16.0.0"
-      folder="/workspace/.gradle/caches/transforms-3/7955678c62e43da44b5ef6419b4135c4/transformed/jetified-firebase-appcheck-interop-16.0.0"
+      name="com.google.firebase:firebase-appcheck-interop:16.0.2@aar"
+      jars="/workspace/.gradle/caches/transforms-3/0ff5c642a9ec4fd1bc11a9a8d1d4ddd5/transformed/jetified-firebase-appcheck-interop-16.0.2/jars/classes.jar"
+      resolved="com.google.firebase:firebase-appcheck-interop:16.0.2"
+      folder="/workspace/.gradle/caches/transforms-3/0ff5c642a9ec4fd1bc11a9a8d1d4ddd5/transformed/jetified-firebase-appcheck-interop-16.0.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -432,10 +432,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.firebase:firebase-common:20.1.1@aar"
-      jars="/workspace/.gradle/caches/transforms-3/60cb43b41827ac5833e6ffb9297cb895/transformed/jetified-firebase-common-20.1.1/jars/classes.jar"
-      resolved="com.google.firebase:firebase-common:20.1.1"
-      folder="/workspace/.gradle/caches/transforms-3/60cb43b41827ac5833e6ffb9297cb895/transformed/jetified-firebase-common-20.1.1"
+      name="com.google.firebase:firebase-common:20.1.2@aar"
+      jars="/workspace/.gradle/caches/transforms-3/3b375b838d2a06401b054f2bb0469829/transformed/jetified-firebase-common-20.1.2/jars/classes.jar"
+      resolved="com.google.firebase:firebase-common:20.1.2"
+      folder="/workspace/.gradle/caches/transforms-3/3b375b838d2a06401b054f2bb0469829/transformed/jetified-firebase-common-20.1.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -445,10 +445,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.facebook.android:facebook-login:14.1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0/jars/classes.jar"
-      resolved="com.facebook.android:facebook-login:14.1.0"
-      folder="/workspace/.gradle/caches/transforms-3/ef1b162fdccdbbb6a361e755c170f73c/transformed/jetified-facebook-login-14.1.0"
+      name="com.facebook.android:facebook-login:14.1.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/jars/classes.jar"
+      resolved="com.facebook.android:facebook-login:14.1.1"
+      folder="/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -458,10 +458,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.facebook.android:facebook-common:14.1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/811dadca657695454917f124ad2815b0/transformed/jetified-facebook-common-14.1.0/jars/classes.jar"
-      resolved="com.facebook.android:facebook-common:14.1.0"
-      folder="/workspace/.gradle/caches/transforms-3/811dadca657695454917f124ad2815b0/transformed/jetified-facebook-common-14.1.0"
+      name="com.facebook.android:facebook-common:14.1.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/jars/classes.jar"
+      resolved="com.facebook.android:facebook-common:14.1.1"
+      folder="/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -549,6 +549,19 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="androidx.appcompat:appcompat:1.1.0@aar"
+      jars="/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/jars/classes.jar"
+      resolved="androidx.appcompat:appcompat:1.1.0"
+      folder="/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="com.google.android.gms:play-services-tasks:18.0.1@aar"
       jars="/workspace/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/jars/classes.jar"
       resolved="com.google.android.gms:play-services-tasks:18.0.1"
@@ -562,23 +575,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.android.gms:play-services-basement:18.0.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/jars/classes.jar"
-      resolved="com.google.android.gms:play-services-basement:18.0.0"
-      folder="/workspace/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0"
-      manifest="AndroidManifest.xml"
-      resFolder="res"
-      assetsFolder="assets"
-      lintJar="lint.jar"
-      publicResources="public.txt"
-      symbolFile="R.txt"
-      externalAnnotations="annotations.zip"
-      proguardRules="proguard.txt"/>
-  <library
-      name="androidx.appcompat:appcompat:1.1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/jars/classes.jar"
-      resolved="androidx.appcompat:appcompat:1.1.0"
-      folder="/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0"
+      name="com.google.android.gms:play-services-basement:18.1.0@aar"
+      jars="/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-basement:18.1.0"
+      folder="/workspace/.gradle/caches/transforms-3/83770efba2c122ac4d7bf3f6e3fc9396/transformed/jetified-play-services-basement-18.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -601,10 +601,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.facebook.android:facebook-core:14.1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/03d9a15e6ee7e01669f7a7959a8e3d72/transformed/jetified-facebook-core-14.1.0/jars/classes.jar"
-      resolved="com.facebook.android:facebook-core:14.1.0"
-      folder="/workspace/.gradle/caches/transforms-3/03d9a15e6ee7e01669f7a7959a8e3d72/transformed/jetified-facebook-core-14.1.0"
+      name="com.facebook.android:facebook-core:14.1.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/2e60bedcd975a5697e13f356f0ec79ea/transformed/jetified-facebook-core-14.1.1/jars/classes.jar"
+      resolved="com.facebook.android:facebook-core:14.1.1"
+      folder="/workspace/.gradle/caches/transforms-3/2e60bedcd975a5697e13f356f0ec79ea/transformed/jetified-facebook-core-14.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -653,10 +653,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.facebook.android:facebook-bolts:14.1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/ffcb2664a1717aab2f962fb1953f204b/transformed/jetified-facebook-bolts-14.1.0/jars/classes.jar"
-      resolved="com.facebook.android:facebook-bolts:14.1.0"
-      folder="/workspace/.gradle/caches/transforms-3/ffcb2664a1717aab2f962fb1953f204b/transformed/jetified-facebook-bolts-14.1.0"
+      name="com.facebook.android:facebook-bolts:14.1.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/0ce488073dbfbf1682df10a4a18671f1/transformed/jetified-facebook-bolts-14.1.1/jars/classes.jar"
+      resolved="com.facebook.android:facebook-bolts:14.1.1"
+      folder="/workspace/.gradle/caches/transforms-3/0ce488073dbfbf1682df10a4a18671f1/transformed/jetified-facebook-bolts-14.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -809,10 +809,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.firebase:firebase-components:17.0.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/9b253fd05eea21b296fa40c0281c68ce/transformed/jetified-firebase-components-17.0.0/jars/classes.jar"
-      resolved="com.google.firebase:firebase-components:17.0.0"
-      folder="/workspace/.gradle/caches/transforms-3/9b253fd05eea21b296fa40c0281c68ce/transformed/jetified-firebase-components-17.0.0"
+      name="com.google.firebase:firebase-components:17.0.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/5f07fda472df6b1a7e63cea7940de097/transformed/jetified-firebase-components-17.0.1/jars/classes.jar"
+      resolved="com.google.firebase:firebase-components:17.0.1"
+      folder="/workspace/.gradle/caches/transforms-3/5f07fda472df6b1a7e63cea7940de097/transformed/jetified-firebase-components-17.0.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -891,10 +891,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.grpc:grpc-android:1.44.1@aar"
-      jars="/workspace/.gradle/caches/transforms-3/20aaad7ae73b7ddbcaab962cc20e7bd0/transformed/jetified-grpc-android-1.44.1/jars/classes.jar"
-      resolved="io.grpc:grpc-android:1.44.1"
-      folder="/workspace/.gradle/caches/transforms-3/20aaad7ae73b7ddbcaab962cc20e7bd0/transformed/jetified-grpc-android-1.44.1"
+      name="io.grpc:grpc-android:1.48.1@aar"
+      jars="/workspace/.gradle/caches/transforms-3/9f5c44066b81f74087859d9d450d4652/transformed/jetified-grpc-android-1.48.1/jars/classes.jar"
+      resolved="io.grpc:grpc-android:1.48.1"
+      folder="/workspace/.gradle/caches/transforms-3/9f5c44066b81f74087859d9d450d4652/transformed/jetified-grpc-android-1.48.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -904,29 +904,29 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.grpc:grpc-okhttp:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-okhttp/1.44.1/577c61816b27a2af018070d00ef8ff18c009b10a/grpc-okhttp-1.44.1.jar"
-      resolved="io.grpc:grpc-okhttp:1.44.1"/>
+      name="io.grpc:grpc-okhttp:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-okhttp/1.48.1/5f8f08e5d8e9e4c2b4ad9210c3d4819f8de16b17/grpc-okhttp-1.48.1.jar"
+      resolved="io.grpc:grpc-okhttp:1.48.1"/>
   <library
-      name="io.grpc:grpc-protobuf-lite:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.44.1/e1cd978629dacd0cee8913a9f18b94b1a52c924d/grpc-protobuf-lite-1.44.1.jar"
-      resolved="io.grpc:grpc-protobuf-lite:1.44.1"/>
+      name="io.grpc:grpc-protobuf-lite:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.48.1/41a2489552bd2ef23cdbe8bac9a54edbdac5de8d/grpc-protobuf-lite-1.48.1.jar"
+      resolved="io.grpc:grpc-protobuf-lite:1.48.1"/>
   <library
-      name="io.grpc:grpc-stub:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.44.1/83d83188b8c5794e41a9ad2d4442ec4fdb78afde/grpc-stub-1.44.1.jar"
-      resolved="io.grpc:grpc-stub:1.44.1"/>
+      name="io.grpc:grpc-stub:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.48.1/9fad09f62dec972db5449c6d31a0def165a537e3/grpc-stub-1.48.1.jar"
+      resolved="io.grpc:grpc-stub:1.48.1"/>
   <library
-      name="io.grpc:grpc-core:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.44.1/4546a73ff5858da60d45d734b1c9e20b4e803932/grpc-core-1.44.1.jar"
-      resolved="io.grpc:grpc-core:1.44.1"/>
+      name="io.grpc:grpc-core:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.48.1/a2a751f81abcf0f8dafa4c85e361d8d92c195429/grpc-core-1.48.1.jar"
+      resolved="io.grpc:grpc-core:1.48.1"/>
   <library
-      name="io.grpc:grpc-api:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-api/1.44.1/d725bde5e0944b626f63b23657d5deb65f5b7e4f/grpc-api-1.44.1.jar"
-      resolved="io.grpc:grpc-api:1.44.1"/>
+      name="io.grpc:grpc-api:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-api/1.48.1/61825f5c9bb981898404009318f04da36a61591e/grpc-api-1.48.1.jar"
+      resolved="io.grpc:grpc-api:1.48.1"/>
   <library
-      name="com.google.guava:guava:30.1.1-android@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1.1-android/5963ed171d561cca6f14659f3439b46a1633ab13/guava-30.1.1-android.jar"
-      resolved="com.google.guava:guava:30.1.1-android"/>
+      name="com.google.guava:guava:31.1-android@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-android/9222c47cc3ae890f07f7c961bbb3cb69050fe4aa/guava-31.1-android.jar"
+      resolved="com.google.guava:guava:31.1-android"/>
   <library
       name="com.google.guava:failureaccess:1.0.1@jar"
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar"
@@ -940,21 +940,17 @@
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar"
       resolved="com.google.code.findbugs:jsr305:3.0.2"/>
   <library
-      name="org.checkerframework:checker-compat-qual:2.5.5@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.5/435dc33e3019c9f019e15f01aa111de9d6b2b79c/checker-compat-qual-2.5.5.jar"
-      resolved="org.checkerframework:checker-compat-qual:2.5.5"/>
-  <library
-      name="com.google.errorprone:error_prone_annotations:2.9.0@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.9.0/74fe3b8b4f3fc84dc940d0ca4c4b270dbc902764/error_prone_annotations-2.9.0.jar"
-      resolved="com.google.errorprone:error_prone_annotations:2.9.0"/>
+      name="com.google.errorprone:error_prone_annotations:2.14.0@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.14.0/9f01b3654d3c536859705f09f8d267ee977b4004/error_prone_annotations-2.14.0.jar"
+      resolved="com.google.errorprone:error_prone_annotations:2.14.0"/>
   <library
       name="com.google.j2objc:j2objc-annotations:1.3@jar"
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar"
       resolved="com.google.j2objc:j2objc-annotations:1.3"/>
   <library
-      name="org.codehaus.mojo:animal-sniffer-annotations:1.19@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.19/1536e1a8fd552dc05f12b5f0827fbb2ee3d5a89b/animal-sniffer-annotations-1.19.jar"
-      resolved="org.codehaus.mojo:animal-sniffer-annotations:1.19"/>
+      name="org.codehaus.mojo:animal-sniffer-annotations:1.21@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.21/419a9acd297cb6fe6f91b982d909f2c20e9fa5c0/animal-sniffer-annotations-1.21.jar"
+      resolved="org.codehaus.mojo:animal-sniffer-annotations:1.21"/>
   <library
       name="com.google.firebase:firebase-annotations:16.1.0@jar"
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-annotations/16.1.0/64bf465fd5aa693067bfd6bc28efb260e1ad29ea/firebase-annotations-16.1.0.jar"
@@ -973,14 +969,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.squareup.okhttp:okhttp:2.7.5@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
-      resolved="com.squareup.okhttp:okhttp:2.7.5"/>
-  <library
       name="com.android.installreferrer:installreferrer:1.0@aar"
-      jars="/workspace/.gradle/caches/transforms-3/25c92fd66c58124c340fc9f6c5e284f0/transformed/jetified-installreferrer-1.0/jars/classes.jar"
+      jars="/workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/jars/classes.jar"
       resolved="com.android.installreferrer:installreferrer:1.0"
-      folder="/workspace/.gradle/caches/transforms-3/25c92fd66c58124c340fc9f6c5e284f0/transformed/jetified-installreferrer-1.0"
+      folder="/workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -994,27 +986,31 @@
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.3/b640badcc97f18867c4dfd249ef8d20ec0204c07/core-3.3.3.jar"
       resolved="com.google.zxing:core:3.3.3"/>
   <library
-      name="com.google.protobuf:protobuf-javalite:3.19.2@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/3.19.2/552a872042d49951a83b96b6eb5bcd9e8e4e42fd/protobuf-javalite-3.19.2.jar"
-      resolved="com.google.protobuf:protobuf-javalite:3.19.2"/>
+      name="com.google.protobuf:protobuf-javalite:3.21.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/3.21.1/2d9b63718aa78e133c315f38aed3d35ce7137fa5/protobuf-javalite-3.21.1.jar"
+      resolved="com.google.protobuf:protobuf-javalite:3.21.1"/>
   <library
       name="com.squareup.okio:okio:1.17.5@jar"
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.17.5/34336f82f14dde1c0752fd5f0546dbf3c3225aba/okio-1.17.5.jar"
       resolved="com.squareup.okio:okio:1.17.5"/>
   <library
-      name="io.perfmark:perfmark-api:0.23.0@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.23.0/b813b7539fae6550541da8caafd6add86d4e22f/perfmark-api-0.23.0.jar"
-      resolved="io.perfmark:perfmark-api:0.23.0"/>
+      name="io.perfmark:perfmark-api:0.25.0@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.25.0/340a0c3d81cdcd9ecd7dc2ae00fb2633b469b157/perfmark-api-0.25.0.jar"
+      resolved="io.perfmark:perfmark-api:0.25.0"/>
   <library
-      name="com.google.code.gson:gson:2.8.9@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.9/8a432c1d6825781e21a02db2e2c33c5fde2833b9/gson-2.8.9.jar"
-      resolved="com.google.code.gson:gson:2.8.9"/>
+      name="org.checkerframework:checker-qual:3.12.0@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar"
+      resolved="org.checkerframework:checker-qual:3.12.0"/>
+  <library
+      name="com.google.code.gson:gson:2.9.0@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar"
+      resolved="com.google.code.gson:gson:2.9.0"/>
   <library
       name="com.google.android:annotations:4.1.1.4@jar"
       jars="/workspace/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar"
       resolved="com.google.android:annotations:4.1.1.4"/>
   <library
-      name="io.grpc:grpc-context:1.44.1@jar"
-      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.44.1/deddbd81cb94693acd23588b81c3265ce5a5e41a/grpc-context-1.44.1.jar"
-      resolved="io.grpc:grpc-context:1.44.1"/>
+      name="io.grpc:grpc-context:1.48.1@jar"
+      jars="/workspace/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.48.1/f06a4ea08f6eb8d447fcc9ce02040061b3504f77/grpc-context-1.48.1.jar"
+      resolved="io.grpc:grpc-context:1.48.1"/>
 </libraries>

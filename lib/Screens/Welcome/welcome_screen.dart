@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../components/background.dart';
 import '../../responsive.dart';
 import 'components/login_signup_btn.dart';
@@ -53,7 +52,7 @@ class MobileWelcomeScreen extends StatelessWidget {
       children: <Widget>[
         const WelcomeImage(),
         Row(
-          children: [
+          children: const [
             Spacer(),
             Expanded(
               flex: 8,
