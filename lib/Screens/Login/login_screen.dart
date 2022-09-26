@@ -50,12 +50,12 @@ class MobileLoginScreen extends StatelessWidget {
         const LoginScreenTopImage(),
         Row(
           children: [
-            Spacer(),
+            const Spacer(),
             Expanded(
               flex: 8,
               child: LoginForm(),
             ),
-            Spacer(),
+            const Spacer(),
           ],
         ),
       ],

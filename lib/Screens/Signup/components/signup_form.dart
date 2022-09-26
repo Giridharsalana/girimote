@@ -86,11 +86,14 @@ class SignUpForm extends StatelessWidget {
                   .then((user) {
                 storeUser(
                     user.user!.uid, nameController.text, emailController.text);
-                print("ght");
+                FirebaseFirestore.instance
+                    .collection('Data')
+                    .doc(user.user!.uid)
+                    .set({'Light' : 0, 'Fan' : 0},SetOptions(merge: true));
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => LoginScreen(),
+                    builder: (context) => const LoginScreen(),
                   ),
                 );
               }).onError((error, stackTrace) {

@@ -6,6 +6,7 @@ import '../../../constants.dart';
 import '../../Homepage/homepage.dart';
 import '../../Signup/signup_screen.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class LoginForm extends StatelessWidget {
   LoginForm({
@@ -79,8 +80,10 @@ class LoginForm extends StatelessWidget {
                   password: passwordController.text,
                 )
                     .then((user) {
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => Homepage()));
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const Homepage()));
                 }).catchError((e) {});
               },
               child: Text(
@@ -98,8 +101,19 @@ class LoginForm extends StatelessWidget {
                 icon: const Icon(FontAwesomeIcons.google),
                 onPressed: () async {
                   await signInWithGoogle();
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => Homepage()));
+                  final user = FirebaseAuth.instance.currentUser;
+                  await FirebaseFirestore.instance
+                      .collection('users')
+                      .doc(user!.uid)
+                      .set({'name': user.displayName, 'email': user.email});
+                  await FirebaseFirestore.instance
+                      .collection('Data')
+                      .doc(user.uid)
+                      .set({}, SetOptions(merge: true));
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const Homepage()));
                 },
               ),
               // const SizedBox(width: defaultPadding),

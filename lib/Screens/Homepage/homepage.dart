@@ -1,9 +1,13 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../Login/login_screen.dart';
 import 'package:toggle_switch/toggle_switch.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
+var one = 0;
+var two = 0;
+var name = "Giri";
 
 class Homepage extends StatefulWidget {
   const Homepage({Key? key}) : super(key: key);
@@ -17,16 +21,14 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     final user = FirebaseAuth.instance.currentUser!;
+    var userres =
+        FirebaseFirestore.instance.collection('users').doc(user.uid).get();
+    var res = FirebaseFirestore.instance.collection('Data').doc(user.uid).get();
 
-    // final db = FirebaseFirestore.instance.collection('data');
+    res.then(
+        (value) => {one = value['Light'], two = value['Fan'], setState(() {})});
 
-    // Future addOrUpdateWithId(
-    //     String collection, String documentId, Map<String, dynamic> data) async {
-    //   await FirebaseFirestore.instance
-    //       .collection('data')
-    //       .doc('new')
-    //       .set([1, 2, 3]);
-    // }
+    userres.then((value) => {name = value['name'], setState(() {})});
 
     return Scaffold(
       body: Container(
@@ -37,7 +39,7 @@ class _HomepageState extends State<Homepage> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              'Hi, ${user.displayName} !',
+              'Hi, $name !',
               style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 30),
             ),
             Expanded(
@@ -72,7 +74,7 @@ class _HomepageState extends State<Homepage> {
                     ToggleSwitch(
                       minWidth: 150.0,
                       minHeight: 60.0,
-                      initialLabelIndex: 0,
+                      initialLabelIndex: one,
                       cornerRadius: 20.0,
                       activeFgColor: Colors.white,
                       inactiveBgColor: Colors.grey,
@@ -91,13 +93,18 @@ class _HomepageState extends State<Homepage> {
                           false, // with just animate set to true, default curve = Curves.easeIn
                       curve: Curves
                           .easeIn, // animate must be set to true when using custom curve
-                      onToggle: (index) {},
+                      onToggle: (index) {
+                        FirebaseFirestore.instance
+                            .collection('Data')
+                            .doc(user.uid)
+                            .update({'Light': index});
+                      },
                     ),
                     const SizedBox(height: 10),
                     ToggleSwitch(
                       minWidth: 150,
                       minHeight: 60.0,
-                      initialLabelIndex: 0,
+                      initialLabelIndex: two,
                       cornerRadius: 20.0,
                       activeFgColor: Colors.white,
                       inactiveBgColor: Colors.grey,
@@ -116,7 +123,12 @@ class _HomepageState extends State<Homepage> {
                           false, // with just animate set to true, default curve = Curves.easeIn
                       curve: Curves
                           .easeIn, // animate must be set to true when using custom curve
-                      onToggle: (index) {},
+                      onToggle: (index) {
+                        FirebaseFirestore.instance
+                            .collection('Data')
+                            .doc(user.uid)
+                            .update({'Fan': index});
+                      },
                     ),
                   ],
                 ),

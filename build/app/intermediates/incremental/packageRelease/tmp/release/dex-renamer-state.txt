@@ -1,4 +1,4 @@
-#Sat Sep 24 14:47:05 UTC 2022
+#Sun Sep 25 12:40:17 UTC 2022
 base.0=/workspace/Flutter_Container/girimote/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
