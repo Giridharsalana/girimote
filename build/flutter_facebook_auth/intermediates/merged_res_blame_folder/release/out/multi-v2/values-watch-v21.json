@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",

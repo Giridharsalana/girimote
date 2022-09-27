@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values/values.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/values/values.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/res/values/values.xml",
@@ -262,7 +262,7 @@
             ]
         },
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/res/values/values.xml",

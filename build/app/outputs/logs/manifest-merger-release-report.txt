@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 application
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:3:4-33:19
-MERGED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
 MERGED from [androidx.window:window:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
@@ -41,29 +41,29 @@ MERGED from [androidx.core:core:1.6.0] /workspace/.gradle/caches/transforms-3/b1
 MERGED from [androidx.core:core:1.6.0] /workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /workspace/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /workspace/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
-MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from [com.facebook.android:facebook-login:14.1.1] /workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/AndroidManifest.xml:28:18-44
 	android:label
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:4:9-33
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:4:9-33
 	android:icon
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:6:9-43
 	android:name
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:5:9-42
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:5:9-42
 manifest
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
-MERGED from [:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
-MERGED from [:flutter_facebook_auth] /workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_facebook_auth] /workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.multidex:multidex:2.0.1] /workspace/.gradle/caches/transforms-3/2a2bab6dfddf4d0fc63f631a95388563/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
@@ -124,38 +124,38 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /workspace/.gradle/caches/tr
 MERGED from [io.grpc:grpc-android:1.48.1] /workspace/.gradle/caches/transforms-3/9f5c44066b81f74087859d9d450d4652/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /workspace/.gradle/caches/transforms-3/4de47c5ddd4d546d00b4f491da6a160d/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /workspace/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
 	package
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:2:5-35
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_facebook_auth] /workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_facebook_auth] /workspace/Flutter_Container/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_facebook_auth] /workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_facebook_auth] /workspaces/Cloud_Workspace/girimote/build/flutter_facebook_auth/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.multidex:multidex:2.0.1] /workspace/.gradle/caches/transforms-3/2a2bab6dfddf4d0fc63f631a95388563/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /workspace/.gradle/caches/transforms-3/2a2bab6dfddf4d0fc63f631a95388563/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.window:window-java:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
@@ -276,62 +276,62 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /workspace/.
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /workspace/.gradle/caches/transforms-3/4de47c5ddd4d546d00b4f491da6a160d/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /workspace/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /workspace/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
+		INJECTED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 activity#com.example.girimote.MainActivity
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:7:9-27:20
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:7:9-27:20
 	android:launchMode
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:10:13-43
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:10:13-43
 	android:hardwareAccelerated
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:13:13-47
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:13:13-47
 	android:windowSoftInputMode
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:14:13-55
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:14:13-55
 	android:exported
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:9:13-36
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:9:13-36
 	android:configChanges
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:12:13-163
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:12:13-163
 	android:theme
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:11:13-47
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:11:13-47
 	android:name
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:8:13-41
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:8:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:19:13-22:17
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:19:13-22:17
 	android:resource
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:21:15-52
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:21:15-52
 	android:name
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:20:15-70
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:20:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:23:13-26:29
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:24:17-68
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:24:17-68
 	android:name
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:25:27-74
 meta-data#flutterEmbedding
-ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:30:9-32:33
+ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:30:9-32:33
 	android:value
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:32:13-30
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:32:13-30
 	android:name
-		ADDED from /workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:31:13-44
+		ADDED from /workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:31:13-44
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+ADDED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
 MERGED from [com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
 MERGED from [com.google.firebase:firebase-firestore:24.3.1] /workspace/.gradle/caches/transforms-3/0460d21a0a68e7ae820ca93ff5d4bf6d/transformed/jetified-firebase-firestore-24.3.1/AndroidManifest.xml:17:9-23:19
@@ -345,33 +345,33 @@ MERGED from [com.google.firebase:firebase-common:20.1.2] /workspace/.gradle/cach
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.1.2] /workspace/.gradle/caches/transforms-3/3b375b838d2a06401b054f2bb0469829/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+ADDED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+		ADDED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-134
+		ADDED from [:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 uses-permission#android.permission.INTERNET
-ADDED from [:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+ADDED from [:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.3.1] /workspace/.gradle/caches/transforms-3/0460d21a0a68e7ae820ca93ff5d4bf6d/transformed/jetified-firebase-firestore-24.3.1/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.3.1] /workspace/.gradle/caches/transforms-3/0460d21a0a68e7ae820ca93ff5d4bf6d/transformed/jetified-firebase-firestore-24.3.1/AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from [:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
+		ADDED from [:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /workspace/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
@@ -565,6 +565,6 @@ ADDED from [com.facebook.android:facebook-core:14.1.1] /workspace/.gradle/caches
 	android:name
 		ADDED from [com.facebook.android:facebook-core:14.1.1] /workspace/.gradle/caches/transforms-3/2e60bedcd975a5697e13f356f0ec79ea/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:57:25-100
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+ADDED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
 	android:name
-		ADDED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107

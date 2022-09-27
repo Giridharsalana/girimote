@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+8-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml
+9-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
-11-->[:google_sign_in_android] /workspace/Flutter_Container/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
+11-->[:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+11-->[:google_sign_in_android] /workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
 12-->[com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:22-76
@@ -28,36 +28,36 @@
 18-->[com.facebook.android:facebook-core:14.1.1] /workspace/.gradle/caches/transforms-3/2e60bedcd975a5697e13f356f0ec79ea/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:28:5-79
 18-->[com.facebook.android:facebook-core:14.1.1] /workspace/.gradle/caches/transforms-3/2e60bedcd975a5697e13f356f0ec79ea/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:28:22-76
 19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-19-->[com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
-19-->[com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d7f18c2ee87879bdab38f11e57b828b8/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+19-->[com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+19-->[com.android.installreferrer:installreferrer:1.0] /workspace/.gradle/caches/transforms-3/d9f61fb74570efb982875dd12b7df06c/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
 20
 21    <application
 22        android:name="io.flutter.app.FlutterMultiDexApplication"
-22-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:5:9-42
+22-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:5:9-42
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 23-->[androidx.core:core:1.6.0] /workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 24        android:icon="@mipmap/ic_launcher"
-24-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:6:9-43
+24-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:6:9-43
 25        android:label="Girimote"
-25-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:4:9-33
+25-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:4:9-33
 26        android:supportsRtl="true" >
 26-->[com.facebook.android:facebook-login:14.1.1] /workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/AndroidManifest.xml:28:18-44
 27        <activity
-27-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:7:9-27:20
+27-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:7:9-27:20
 28            android:name="com.example.girimote.MainActivity"
-28-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:8:13-41
+28-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:8:13-41
 29            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-29-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:12:13-163
+29-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:12:13-163
 30            android:exported="true"
-30-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:9:13-36
+30-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:9:13-36
 31            android:hardwareAccelerated="true"
-31-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:13:13-47
+31-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:13:13-47
 32            android:launchMode="singleTop"
-32-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:10:13-43
+32-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:10:13-43
 33            android:theme="@style/LaunchTheme"
-33-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:11:13-47
+33-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:11:13-47
 34            android:windowSoftInputMode="adjustResize" >
-34-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:14:13-55
+34-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:14:13-55
 35
 36            <!--
 37                 Specifies an Android theme to apply to this Activity as soon as
@@ -66,21 +66,21 @@
 40                 to determine the Window background behind the Flutter UI.
 41            -->
 42            <meta-data
-42-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:19:13-22:17
+42-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:19:13-22:17
 43                android:name="io.flutter.embedding.android.NormalTheme"
-43-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:20:15-70
+43-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:20:15-70
 44                android:resource="@style/NormalTheme" />
-44-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:21:15-52
+44-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:21:15-52
 45
 46            <intent-filter>
-46-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:23:13-26:29
+46-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:23:13-26:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:24:17-68
-47-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:24:25-66
+47-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:24:17-68
+47-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:24:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:25:17-76
-49-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:25:27-74
+49-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:25:17-76
+49-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:25:27-74
 50            </intent-filter>
 51        </activity>
 52        <!--
@@ -88,38 +88,38 @@
 54             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 55        -->
 56        <meta-data
-56-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:30:9-32:33
+56-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:30:9-32:33
 57            android:name="flutterEmbedding"
-57-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:31:13-44
+57-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:31:13-44
 58            android:value="2" />
-58-->/workspace/Flutter_Container/girimote/android/app/src/main/AndroidManifest.xml:32:13-30
+58-->/workspaces/Cloud_Workspace/girimote/android/app/src/main/AndroidManifest.xml:32:13-30
 59
 60        <service
-60-->[:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+60-->[:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
 61            android:name="com.google.firebase.components.ComponentDiscoveryService"
-61-->[:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
+61-->[:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
 62            android:directBootAware="true"
 62-->[com.google.firebase:firebase-common:20.1.2] /workspace/.gradle/caches/transforms-3/3b375b838d2a06401b054f2bb0469829/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:35:13-43
 63            android:exported="false" >
 63-->[com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:66:13-37
 64            <meta-data
-64-->[:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+64-->[:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-65-->[:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+65-->[:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[:firebase_auth] /workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+66-->[:firebase_auth] /workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 67            <meta-data
-67-->[:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+67-->[:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-68-->[:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-134
+68-->[:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-134
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:cloud_firestore] /workspace/Flutter_Container/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+69-->[:cloud_firestore] /workspaces/Cloud_Workspace/girimote/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 70            <meta-data
-70-->[:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+70-->[:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-71-->[:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+71-->[:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 72                android:value="com.google.firebase.components.ComponentRegistrar" />
-72-->[:firebase_core] /workspace/Flutter_Container/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+72-->[:firebase_core] /workspaces/Cloud_Workspace/girimote/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 73            <meta-data
 73-->[com.google.firebase:firebase-auth:21.0.8] /workspace/.gradle/caches/transforms-3/2960bfdd10556b856d3677075aa17aa2/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:67:13-69:85
 74                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"

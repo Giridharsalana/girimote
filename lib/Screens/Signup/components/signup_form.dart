@@ -89,7 +89,7 @@ class SignUpForm extends StatelessWidget {
                 FirebaseFirestore.instance
                     .collection('Data')
                     .doc(user.user!.uid)
-                    .set({'Light' : 0, 'Fan' : 0},SetOptions(merge: true));
+                    .set({'Light': 0, 'Fan': 0}, SetOptions(merge: true));
                 Navigator.push(
                   context,
                   MaterialPageRoute(
@@ -97,7 +97,7 @@ class SignUpForm extends StatelessWidget {
                   ),
                 );
               }).onError((error, stackTrace) {
-                print("error ${error.toString()}");
+                // print("error ${error.toString()}");
               });
             },
             child: Text("Sign Up".toUpperCase()),

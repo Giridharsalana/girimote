@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/workspace/Flutter_Container/girimote/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/workspaces/Cloud_Workspace/girimote/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

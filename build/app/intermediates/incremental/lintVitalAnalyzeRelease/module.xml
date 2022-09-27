@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/workspace/Flutter_Container/girimote/android/app"
+    dir="/workspaces/Cloud_Workspace/girimote/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.1.2"
-    buildFolder="/workspace/Flutter_Container/girimote/build/app"
+    buildFolder="/workspaces/Cloud_Workspace/girimote/build/app"
     bootClassPath="/home/gitpod/Android/sdk/platforms/android-31/android.jar:/home/gitpod/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-31">

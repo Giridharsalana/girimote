@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/res/values/values.xml",
@@ -109,6 +109,23 @@
                         "endLines": "3,1941,2793,2882",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "258,133810,180479,185690"
+                    }
+                },
+                {
+                    "source": "/workspaces/Cloud_Workspace/girimote/build/app/generated/res/google-services/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,712",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "194,276,380,489,609,707,782"
+                    },
+                    "to": {
+                        "startLines": "399,403,404,405,406,407,408",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "28118,28477,28559,28663,28772,28892,28990",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "28257,28554,28658,28767,28887,28985,29060"
                     }
                 },
                 {
@@ -277,23 +294,6 @@
                     }
                 },
                 {
-                    "source": "/workspace/Flutter_Container/girimote/build/app/generated/res/google-services/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,712",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "194,276,380,489,609,707,782"
-                    },
-                    "to": {
-                        "startLines": "399,403,404,405,406,407,408",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "28118,28477,28559,28663,28772,28892,28990",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "28257,28554,28658,28767,28887,28985,29060"
-                    }
-                },
-                {
                     "source": "/workspace/.gradle/caches/transforms-3/53c7411b0a76e9add0d8efcc72d7a345/transformed/jetified-appcompat-resources-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -313,7 +313,7 @@
                     }
                 },
                 {
-                    "source": "/workspace/Flutter_Container/girimote/android/app/src/main/res/values/styles.xml",
+                    "source": "/workspaces/Cloud_Workspace/girimote/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

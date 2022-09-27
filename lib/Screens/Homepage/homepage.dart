@@ -17,19 +17,24 @@ class Homepage extends StatefulWidget {
   _HomepageState createState() => _HomepageState();
 }
 
+void updateState() {
+  one = 0;
+  two = 0;
+  name = 'Giri';
+}
+
 class _HomepageState extends State<Homepage> {
-  @override
-  Widget build(BuildContext context) {
+  void getData() {
     final user = FirebaseAuth.instance.currentUser!;
     var userres =
         FirebaseFirestore.instance.collection('users').doc(user.uid).get();
     var res = FirebaseFirestore.instance.collection('Data').doc(user.uid).get();
+    userres.then((value) => {name = value['name']});
+    res.then((value) => {one = value['Light'], two = value['Fan']});
+  }
 
-    res.then(
-        (value) => {one = value['Light'], two = value['Fan'], setState(() {})});
-
-    userres.then((value) => {name = value['name'], setState(() {})});
-
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
         padding:
@@ -94,6 +99,7 @@ class _HomepageState extends State<Homepage> {
                       curve: Curves
                           .easeIn, // animate must be set to true when using custom curve
                       onToggle: (index) {
+                        print(one);
                         FirebaseFirestore.instance
                             .collection('Data')
                             .doc(user.uid)
@@ -124,6 +130,7 @@ class _HomepageState extends State<Homepage> {
                       curve: Curves
                           .easeIn, // animate must be set to true when using custom curve
                       onToggle: (index) {
+                        print(two);
                         FirebaseFirestore.instance
                             .collection('Data')
                             .doc(user.uid)
@@ -140,6 +147,8 @@ class _HomepageState extends State<Homepage> {
                 // style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
               ),
               onPressed: () {
+                updateState();
+                print(' ---- > one is $one amd two is $two ');
                 FirebaseAuth.instance.signOut();
                 Navigator.push(
                     context,

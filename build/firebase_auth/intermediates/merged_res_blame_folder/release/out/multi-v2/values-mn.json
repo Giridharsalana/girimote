@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/merged_res/release/values-mn/values-mn.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_res/release/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/297942c3957902ff7659eb1bc47c3617/transformed/browser-1.4.0/res/values-mn/values-mn.xml",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "outputFile": "/workspace/Flutter_Container/girimote/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/297942c3957902ff7659eb1bc47c3617/transformed/browser-1.4.0/res/values-mn/values-mn.xml",
