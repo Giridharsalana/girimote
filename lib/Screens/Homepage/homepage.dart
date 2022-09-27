@@ -24,17 +24,15 @@ void updateState() {
 }
 
 class _HomepageState extends State<Homepage> {
-  void getData() {
+  @override
+  Widget build(BuildContext context) {
     final user = FirebaseAuth.instance.currentUser!;
     var userres =
         FirebaseFirestore.instance.collection('users').doc(user.uid).get();
     var res = FirebaseFirestore.instance.collection('Data').doc(user.uid).get();
     userres.then((value) => {name = value['name']});
     res.then((value) => {one = value['Light'], two = value['Fan']});
-  }
 
-  @override
-  Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
         padding:
