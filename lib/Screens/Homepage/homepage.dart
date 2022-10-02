@@ -14,37 +14,26 @@ class Homepage extends StatefulWidget {
 
 class HomepageState extends State<Homepage> {
   final userInfo = FirebaseAuth.instance.currentUser;
+  late final userData = FirebaseFirestore.instance.collection("users");
 
   @override
   void initState() {
     super.initState();
   }
 
-  Future<Map<String, dynamic>> getUserData() async {
-    DocumentReference userDataRef =
-        FirebaseFirestore.instance.collection('users').doc(userInfo!.uid);
-
-    return userDataRef.get().then((value) {
-      Map<String, dynamic> data = value.data() as Map<String, dynamic>;
-      return data;
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
-    DocumentReference userDataRef =
-        FirebaseFirestore.instance.collection('users').doc(userInfo!.uid);
+    DocumentReference userDataDoc = userData.doc(userInfo!.uid);
     return Scaffold(
-      body: FutureBuilder(
-          future: getUserData(),
+      body: StreamBuilder(
+          stream: userDataDoc.snapshots(),
           initialData: const {
-            "Name": "GS",
+            "Name": "Giridhar Salana",
             "Email": "gs@gmail.com",
           },
           builder: (context, snapshot) {
             if (snapshot.hasData) {
-              Map<String, dynamic> snapShot =
-                  snapshot.data as Map<String, dynamic>;
+              var snapShot = snapshot.data as DocumentSnapshot;
               return Container(
                 padding: const EdgeInsets.only(
                     top: 80, bottom: 10, left: 20, right: 20),
@@ -109,7 +98,7 @@ class HomepageState extends State<Homepage> {
                               curve: Curves
                                   .easeIn, // animate must be set to true when using custom curve
                               onToggle: (index) {
-                                userDataRef.update({'Light': index});
+                                userDataDoc.update({'Light': index});
                               },
                             ),
                             const SizedBox(height: 10),
@@ -136,37 +125,41 @@ class HomepageState extends State<Homepage> {
                               curve: Curves
                                   .easeIn, // animate must be set to true when using custom curve
                               onToggle: (index) {
-                                userDataRef.update({'Fan': index});
+                                userDataDoc.update({'Fan': index});
                               },
                             ),
                           ],
                         ),
                       ),
                     ),
-                    ElevatedButton(
-                      child: const Text(
-                        'Sign Out',
-                        // style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
+                    Container(
+                      margin: const EdgeInsets.only(left: 10, right: 10),
+                      padding: const EdgeInsets.only(left: 10, right: 10),
+                      child: ElevatedButton(
+                        child: const Text(
+                          'Sign Out',
+                          // style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
+                        ),
+                        onPressed: () {
+                          FirebaseAuth.instance.signOut();
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => const LoginScreen()));
+                        },
                       ),
-                      onPressed: () {
-                        FirebaseAuth.instance.signOut();
-                        Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                                builder: (context) => const LoginScreen()));
-                      },
                     ),
                   ],
                 ),
               );
             }
             if (snapshot.hasError) {
-              return const Text("Error");
+              return const Center(child: Text(" 😟 Error"));
             }
             if (snapshot.connectionState == ConnectionState.waiting) {
               return const CircularProgressIndicator();
             }
-            return const CircularProgressIndicator();
+            return const Center(child: Text(" 😔 Failed"));
           }),
     );
   }
