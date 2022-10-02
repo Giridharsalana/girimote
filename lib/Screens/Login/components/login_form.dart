@@ -1,12 +1,12 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+// import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import '../../../components/already_have_an_account_acheck.dart';
 import '../../../constants.dart';
 import '../../Homepage/homepage.dart';
 import '../../Signup/signup_screen.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+// import 'package:cloud_firestore/cloud_firestore.dart';
 
 class LoginForm extends StatelessWidget {
   LoginForm({
@@ -92,37 +92,37 @@ class LoginForm extends StatelessWidget {
             ),
           ),
           const SizedBox(height: defaultPadding),
-          const Text("-- or --"),
-          const Text("Sign in with Google"),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              IconButton(
-                icon: const Icon(FontAwesomeIcons.google),
-                onPressed: () async {
-                  await signInWithGoogle();
-                  final user = FirebaseAuth.instance.currentUser;
-                  await FirebaseFirestore.instance
-                      .collection('users')
-                      .doc(user!.uid)
-                      .set({'name': user.displayName, 'email': user.email});
-                  await FirebaseFirestore.instance
-                      .collection('Data')
-                      .doc(user.uid)
-                      .set({}, SetOptions(merge: true));
-                  Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                          builder: (context) => const Homepage()));
-                },
-              ),
-              // const SizedBox(width: defaultPadding),
-              // IconButton(
-              //   icon: const Icon(FontAwesomeIcons.facebook),
-              //   onPressed: () {},
-              // ),
-            ],
-          ),
+          // const Text("-- or --"),
+          // const Text("Sign in with Google"),
+          // Row(
+          //   mainAxisAlignment: MainAxisAlignment.center,
+          //   children: [
+          //     IconButton(
+          //       icon: const Icon(FontAwesomeIcons.google),
+          //       onPressed: () async {
+          //         await signInWithGoogle();
+          //         final user = FirebaseAuth.instance.currentUser;
+          //         await FirebaseFirestore.instance
+          //             .collection('users')
+          //             .doc(user!.uid)
+          //             .set({'name': user.displayName, 'email': user.email});
+          //         await FirebaseFirestore.instance
+          //             .collection('Data')
+          //             .doc(user.uid)
+          //             .set({}, SetOptions(merge: true));
+          //         Navigator.push(
+          //             context,
+          //             MaterialPageRoute(
+          //                 builder: (context) => const Homepage()));
+          //       },
+          //     ),
+          // const SizedBox(width: defaultPadding),
+          // IconButton(
+          //   icon: const Icon(FontAwesomeIcons.facebook),
+          //   onPressed: () {},
+          // ),
+          // ],
+          // ),
           const SizedBox(height: defaultPadding),
           AlreadyHaveAnAccountCheck(
             press: () {

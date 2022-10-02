@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:girimote/constants.dart';
 import 'package:girimote/responsive.dart';
 import '../../components/background.dart';
-import 'components/sign_up_top_image.dart';
 import 'components/signup_form.dart';
 // import 'components/socal_sign_up.dart';
 
@@ -17,9 +16,6 @@ class SignUpScreen extends StatelessWidget {
           mobile: const MobileSignupScreen(),
           desktop: Row(
             children: [
-              const Expanded(
-                child: SignUpScreenTopImage(),
-              ),
               Expanded(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
@@ -51,7 +47,6 @@ class MobileSignupScreen extends StatelessWidget {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
-        const SignUpScreenTopImage(),
         Row(
           children: [
             const Spacer(),

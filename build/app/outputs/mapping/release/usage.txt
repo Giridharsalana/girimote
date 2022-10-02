@@ -15289,7 +15289,6 @@ com.google.firebase.auth.MultiFactorInfo:
 com.google.firebase.auth.MultiFactorResolver:
     public abstract com.google.firebase.auth.FirebaseAuth getFirebaseAuth()
 com.google.firebase.auth.OAuthCredential:
-    public abstract java.lang.String getAccessToken()
     public abstract java.lang.String getIdToken()
     public abstract java.lang.String getSecret()
 com.google.firebase.auth.OAuthProvider$Builder:
@@ -15345,7 +15344,6 @@ com.google.firebase.auth.internal.zzo:
 com.google.firebase.auth.internal.zzx:
     public static com.google.firebase.auth.FirebaseUser zzk(com.google.firebase.FirebaseApp,com.google.firebase.auth.FirebaseUser)
 com.google.firebase.auth.zze:
-    public final java.lang.String getAccessToken()
     public final java.lang.String getIdToken()
     public final java.lang.String getSecret()
 com.google.firebase.auth.zzu

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/merged_res/release/values-nl/values-nl.xml",
+            "outputFile": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/2f3aa72464889ee04298a4429d23aa5e/transformed/jetified-play-services-base-17.1.0/res/values-nl/values.xml",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/firebase_auth/intermediates/merged_res/release/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/2f3aa72464889ee04298a4429d23aa5e/transformed/jetified-play-services-base-17.1.0/res/values-nl/values.xml",

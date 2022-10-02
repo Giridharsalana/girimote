@@ -4,9 +4,9 @@
     minSdkVersion="19"
     targetSdkVersion="31"
     shrinking="true"
-    mergedManifest="/workspaces/Cloud_Workspace/girimote/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    proguardFiles="/workspaces/Cloud_Workspace/girimote/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.1.2:/home/gitpod/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
-    partialResultsDir="/workspaces/Cloud_Workspace/girimote/build/app/intermediates/lint_vital_partial_results/release/out">
+    mergedManifest="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    proguardFiles="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.1.2:/home/gitpod/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/lint_vital_partial_results/release/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -29,9 +29,9 @@
         value="io.flutter.app.FlutterMultiDexApplication" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="/workspaces/Cloud_Workspace/girimote/build/app/intermediates/javac/release/classes:/workspaces/Cloud_Workspace/girimote/build/app/tmp/kotlin-classes/release:/workspaces/Cloud_Workspace/girimote/build/app/kotlinToolingMetadata:/workspaces/Cloud_Workspace/girimote/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      classOutputs="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/javac/release/classes:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/tmp/kotlin-classes/release:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/kotlinToolingMetadata:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.girimote"
-      generatedSourceFolders="/workspaces/Cloud_Workspace/girimote/build/app/generated/ap_generated_sources/release/out:/workspaces/Cloud_Workspace/girimote/build/app/generated/aidl_source_output_dir/release/out:/workspaces/Cloud_Workspace/girimote/build/app/generated/source/buildConfig/release:/workspaces/Cloud_Workspace/girimote/build/app/generated/renderscript_source_output_dir/release/out"
-      generatedResourceFolders="/workspaces/Cloud_Workspace/girimote/build/app/generated/res/google-services/release:/workspaces/Cloud_Workspace/girimote/build/app/generated/res/rs/release:/workspaces/Cloud_Workspace/girimote/build/app/generated/res/resValues/release">
+      generatedSourceFolders="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/ap_generated_sources/release/out:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/aidl_source_output_dir/release/out:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/source/buildConfig/release:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/res/google-services/release:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/res/rs/release:/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/generated/res/resValues/release">
   </mainArtifact>
 </variant>

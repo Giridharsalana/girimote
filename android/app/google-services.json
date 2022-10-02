@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "299511919695-aitq8538eg08udip16589kcnt9knsad0.apps.googleusercontent.com",
+          "client_id": "299511919695-89fq1hhkjve1n3ub5fbhv3rub6405dje.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.girimote",
-            "certificate_hash": "7f49b368836d08edec9fa1ab4c054f97a76ef394"
+            "certificate_hash": "aeb3873169290a3c405626bdc4c7d01db1e25d2e"
           }
         },
         {

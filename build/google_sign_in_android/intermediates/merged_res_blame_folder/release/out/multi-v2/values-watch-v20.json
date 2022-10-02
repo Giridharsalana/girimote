@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/google_sign_in_android/intermediates/merged_res/release/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/c08e1e3d39e1a6bb423f464306ae8a05/transformed/jetified-play-services-auth-20.0.1/res/values-watch-v20/values.xml",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/google_sign_in_android/intermediates/merged_res/release/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/google_sign_in_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/c08e1e3d39e1a6bb423f464306ae8a05/transformed/jetified-play-services-auth-20.0.1/res/values-watch-v20/values.xml",

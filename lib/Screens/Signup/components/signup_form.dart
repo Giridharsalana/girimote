@@ -87,7 +87,7 @@ class SignUpForm extends StatelessWidget {
                 storeUser(
                     user.user!.uid, nameController.text, emailController.text);
                 FirebaseFirestore.instance
-                    .collection('Data')
+                    .collection('users')
                     .doc(user.user!.uid)
                     .set({'Light': 0, 'Fan': 0}, SetOptions(merge: true));
                 Navigator.push(

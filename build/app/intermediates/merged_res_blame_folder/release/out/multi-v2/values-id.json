@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/workspaces/Cloud_Workspace/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-id/values-id.xml",
+            "outputFile": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
                     "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/values-id/values-id.xml",

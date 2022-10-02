@@ -1,4 +1,4 @@
-#Mon Sep 26 09:11:46 UTC 2022
-base.0=/workspaces/Cloud_Workspace/girimote/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Sun Oct 02 09:41:37 UTC 2022
+base.0=/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

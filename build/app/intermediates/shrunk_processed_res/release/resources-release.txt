@@ -368,7 +368,6 @@ app_event_pred
 plugins.flutter.io/firebase_auth/phone/
 state
 element
-3.4.9
 buttonText
 dense3.weight
 ctx
@@ -838,6 +837,7 @@ androidx.activity.result.contract.ext...
 userdebug
 lock
 text
+1.24.0
 TOKEN
 android.support.customtabs.ICustomTab...
 SENTENCES
@@ -1119,6 +1119,7 @@ TextInput.setEditingState
 com.google.firebase.auth.KEY_API_KEY
 multiFactorSessionId
 fb.gg
+3.5.0
 ON_START
 windowMetrics.bounds
 USER_CANCEL
@@ -4299,10 +4300,8 @@ org.conscrypt.OpenSSLProvider
 com.google.android.gms.common.api.int...
 PING
 $settingsKey
-3.10.0
 UPDATE
 addressRegion
-1.23.0
 lastLimboFreeSnapshotVersion_
 outcome
 TLS_AES_128_CCM_8_SHA256
@@ -4924,6 +4923,7 @@ java.lang.Character
 OPERATION_NOT_ALLOWED
 model
 com.google.protobuf.DescriptorMessage...
+3.11.0
 sku
 birthdayYear
 isolate_snapshot_data
