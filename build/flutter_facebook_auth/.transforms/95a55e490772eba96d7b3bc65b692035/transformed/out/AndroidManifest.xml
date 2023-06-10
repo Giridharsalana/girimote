@@ -3,7 +3,7 @@
     package="app.meedu.flutter_facebook_auth" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="16" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
 
 </manifest>

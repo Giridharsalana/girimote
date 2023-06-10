@@ -33,7 +33,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-xxhdpi-v4/com_facebook_close.png",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/drawable-xxhdpi-v4/com_facebook_close.png"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/drawable-xxhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",

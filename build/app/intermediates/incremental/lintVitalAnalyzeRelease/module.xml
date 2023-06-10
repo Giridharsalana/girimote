@@ -6,9 +6,9 @@
     maven="android:app:"
     gradle="7.1.2"
     buildFolder="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app"
-    bootClassPath="/home/gitpod/Android/sdk/platforms/android-31/android.jar:/home/gitpod/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    bootClassPath="/home/gitpod/Android/sdk/platforms/android-33/android.jar:/home/gitpod/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
-    compileTarget="android-31">
+    compileTarget="android-33">
   <lintOptions
       abortOnError="true"
       absolutePaths="true"

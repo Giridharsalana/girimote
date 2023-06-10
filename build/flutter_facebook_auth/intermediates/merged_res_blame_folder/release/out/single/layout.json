@@ -9,7 +9,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/com_facebook_login_fragment.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/layout/com_facebook_login_fragment.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/layout/com_facebook_login_fragment.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_alert_dialog_material.xml",
@@ -22,10 +22,6 @@
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_list_menu_item_radio.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/notification_action.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_action.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/select_dialog_singlechoice_material.xml",
@@ -49,7 +45,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/com_facebook_activity_layout.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/layout/com_facebook_activity_layout.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_cascading_menu_item_layout.xml",
@@ -108,10 +104,6 @@
         "source": "/workspace/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_action_mode_close_item_material.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_action_mode_close_item_material.xml"
     },
@@ -144,10 +136,6 @@
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_tooltip.xml"
     },
     {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_action_bar_title_item.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_action_bar_title_item.xml"
     },
@@ -157,19 +145,19 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/com_facebook_device_auth_dialog_fragment.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/layout/com_facebook_device_auth_dialog_fragment.xml"
-    },
-    {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_activity_chooser_view.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/com_facebook_tooltip_bubble.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/37bc06becc74fc6374f491e2b80a7fe6/transformed/jetified-facebook-login-14.1.1/res/layout/com_facebook_tooltip_bubble.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/e548103b178e65b25ad84175f5aaea69/transformed/jetified-facebook-login-16.0.1/res/layout/com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/notification_template_part_time.xml",
@@ -201,7 +189,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/com_facebook_smart_device_dialog_fragment.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/layout/support_simple_spinner_dropdown_item.xml",

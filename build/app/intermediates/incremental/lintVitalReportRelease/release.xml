@@ -1,8 +1,8 @@
 <variant
     name="release"
     package="com.example.girimote"
-    minSdkVersion="19"
-    targetSdkVersion="31"
+    minSdkVersion="21"
+    targetSdkVersion="33"
     shrinking="true"
     mergedManifest="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
     manifestMergeReport="/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/app/outputs/logs/manifest-merger-release-report.txt"

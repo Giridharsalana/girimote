@@ -24,10 +24,6 @@
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_primary_text_material_light.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_light.xml"
     },
@@ -57,7 +53,7 @@
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/com_facebook_button_text_color.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/089c6f60b2b1abdf1ea24fb7553bf471/transformed/jetified-facebook-common-14.1.1/res/color/com_facebook_button_text_color.xml"
+        "source": "/workspace/.gradle/caches/transforms-3/28e9dbaa42488cbe9469a96a2fc3da1e/transformed/jetified-facebook-common-16.0.1/res/color/com_facebook_button_text_color.xml"
     },
     {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/color/abc_hint_foreground_material_light.xml",

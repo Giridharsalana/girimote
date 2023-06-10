@@ -20,10 +20,6 @@
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
-        "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/anim/fragment_fast_out_extra_slow_in.xml",
-        "source": "/workspace/.gradle/caches/transforms-3/05db99a34555bf316774640893f6f9c1/transformed/fragment-1.3.0/res/anim/fragment_fast_out_extra_slow_in.xml"
-    },
-    {
         "merged": "/workspace/Cloud_Workspace/Code_Lab/Dart/girimote/build/flutter_facebook_auth/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
         "source": "/workspace/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/res/anim/abc_slide_out_top.xml"
     },
