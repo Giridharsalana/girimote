@@ -1,5 +1,4 @@
-# Dockerfile for Flutter + Fish shell in devcontainers
-FROM mcr.microsoft.com/devcontainers/base:ubuntu
+FROM gitpod/workspace-full
 
 # 🧰 Install dependencies
 RUN apt-get update && apt-get install -y \
