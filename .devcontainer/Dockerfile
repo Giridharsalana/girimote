@@ -16,8 +16,8 @@ RUN apt-get update && apt-get install -y \
     nala \
     && apt-get clean
 
-# Install Flutter SDK
-ENV FLUTTER_VERSION=3.22.1
+
+# Install latest stable Flutter SDK
 ENV FLUTTER_HOME=/opt/flutter
 RUN git clone https://github.com/flutter/flutter.git -b stable $FLUTTER_HOME && \
     $FLUTTER_HOME/bin/flutter --version
