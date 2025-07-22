@@ -6,7 +6,12 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "terminal.integrated.shell.linux": "/usr/bin/fish"
+        "terminal.integrated.profiles.linux": {
+          "fish": {
+            "path": "/usr/bin/fish"
+          }
+        },
+        "terminal.integrated.defaultProfile.linux": "fish"
       },
       "extensions": [
         "Dart-Code.dart-code",
