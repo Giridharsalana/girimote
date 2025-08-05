@@ -38,6 +38,7 @@ RUN echo /usr/bin/fish >> /etc/shells
 # 👤 Switch back to gitpod user
 USER gitpod
 
+
 # 🐦 Install Flutter under gitpod's home directory
 ENV FLUTTER_HOME=/home/gitpod/flutter
 RUN git clone https://github.com/flutter/flutter.git -b stable $FLUTTER_HOME
@@ -75,5 +76,4 @@ RUN yes | flutter doctor --android-licenses
 # 📂 Set workspace directory
 WORKDIR /workspaces/girimote
 
-# 🐚 Set default shell to Fish
 CMD ["/usr/bin/fish"]
